@@ -4,7 +4,8 @@
 venv
 env/
 .venv/
-
+# Data (large datasets)
+data/dataset.csv
 # Python cache and compiled files
 __pycache__/
 *.pyc
@@ -22,8 +23,7 @@ models/
 *.pkl
 *.joblib
 
-# Data (large datasets)
- data/dataset.csv
+
 
 # OS-specific files
 .DS_Store

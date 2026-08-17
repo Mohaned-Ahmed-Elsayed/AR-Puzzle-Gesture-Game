@@ -17,11 +17,6 @@ Players pinch, open, and move puzzle tiles to solve a sliding puzzle in real tim
 - 🎯 Confidence filtering for robust, jitter-free predictions
 - ✅ Reset and win conditions with visual feedback
 
----
-
-## 🎥 Demo
-
-> *(Add a GIF or screenshot of the game in action here)*
 
 ---
 
@@ -116,7 +111,7 @@ Solve the puzzle to win! 🏆
 
 - **[MediaPipe](https://developers.google.com/mediapipe)** — hand landmark detection
 - **[OpenCV](https://opencv.org/)** — camera input and rendering
-- **[scikit-learn]** — PCA dimensionality reduction + KNN classification
+- **scikit-learn** — PCA dimensionality reduction + KNN classification
 
 ---
 
