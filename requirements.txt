@@ -1,0 +1,7 @@
+opencv-python
+mediapipe==0.10.10
+numpy
+scikit-learn
+joblib
+pandas
+pyinstaller
